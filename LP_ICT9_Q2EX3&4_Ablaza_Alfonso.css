@@ -1,0 +1,59 @@
+#div1{
+	border-style: ridge;
+	border-color: mediumspringgreen;
+	margin: 15%;
+	padding: 12px;
+}
+#product{
+	font-family: bahnschrift, helvetica, calibri;
+	font-size: 14pt;
+	color: whitesmoke;
+	text-align: left;
+	margin-left: 20px;
+	margin-right: 20px;
+}
+#price{
+	font-size: 60pt;
+	text-align: center;
+	color: whitesmoke;
+	margin-top: 15px;
+	margin-bottom: 12px;
+}
+#message-me{
+	color: lightblue;
+	text-decoration: underline;
+	cursor: pointer;
+}
+body{
+	background-color: rgb(225,140,180);
+	font-family: bahnschrift, helvetica, calibri;
+}
+img{
+	height: auto;
+	width: 50%;
+	margin-left: 200px;
+	margin-right: 200px;
+}
+h4{
+	text-transform: uppercase;
+	font-family: bahnschrift, helvetica, calibri;
+	font-size: 50pt;
+	color: white;
+	text-align: center;
+	margin-top: 25px;
+	margin-bottom: 25px;
+}
+button{
+	text-transform: uppercase;
+	font-weight: bold;
+	font-size: 18px;
+	border: none;
+	border-radius: 7px;
+	outline: 0;
+	padding: 12px;
+	display: inline-block;
+	color: white;
+	background-color: mediumspringgreen;
+	cursor: pointer;
+	width: 40%;
+}
